@@ -4,7 +4,7 @@
 #
 Name     : rubygem-hoe-gemspec2
 Version  : 1.2.0
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/hoe-gemspec2-1.2.0.gem
 Source0  : https://rubygems.org/downloads/hoe-gemspec2-1.2.0.gem
 Summary  : No detailed summary available
@@ -55,17 +55,10 @@ fi
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/hoe-gemspec2-1.2.0.gem
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-gemspec2-1.2.0/ri/Hoe/Gemspec2/cdesc-Gemspec2.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-gemspec2-1.2.0/ri/Hoe/Gemspec2/define_gemspec2_tasks-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-gemspec2-1.2.0/ri/Hoe/cdesc-Hoe.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-gemspec2-1.2.0/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-gemspec2-1.2.0/ri/page-CHANGELOG_rdoc.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-gemspec2-1.2.0/ri/page-Manifest_txt.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-gemspec2-1.2.0/ri/page-README_rdoc.ri
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-gemspec2-1.2.0/CHANGELOG.rdoc
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-gemspec2-1.2.0/Manifest.txt
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-gemspec2-1.2.0/README.rdoc
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-gemspec2-1.2.0/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-gemspec2-1.2.0/lib/hoe/gemspec2.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/hoe-gemspec2-1.2.0.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/hoe-gemspec2-1.2.0.gem
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-gemspec2-1.2.0/CHANGELOG.rdoc
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-gemspec2-1.2.0/Manifest.txt
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-gemspec2-1.2.0/README.rdoc
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-gemspec2-1.2.0/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-gemspec2-1.2.0/lib/hoe/gemspec2.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/hoe-gemspec2-1.2.0.gemspec
