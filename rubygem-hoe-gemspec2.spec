@@ -4,7 +4,7 @@
 #
 Name     : rubygem-hoe-gemspec2
 Version  : 1.2.0
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/hoe-gemspec2-1.2.0.gem
 Source0  : https://rubygems.org/downloads/hoe-gemspec2-1.2.0.gem
 Summary  : No detailed summary available
